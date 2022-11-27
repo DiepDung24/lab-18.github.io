@@ -1,0 +1,7 @@
+.bg-img1,
+.bg-img2,
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(...);
+}
